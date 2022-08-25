@@ -8,6 +8,8 @@ Tower of Hanoi; 汉诺塔; 递归
 Only **index.html** 
 
 ## Demo
+[Try It Online!](https://garybikini.github.io/TowerOfHanoi/)
+
 ![](demo.gif)
 
 
